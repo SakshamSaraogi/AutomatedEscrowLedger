@@ -1,0 +1,4 @@
+pyrogram
+tgcrypto
+psycopg2-binary
+cachetools
