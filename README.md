@@ -65,7 +65,7 @@ python main.py
 ```
 
 ## Project Structure
-escrowledger/
+AutomatedEscrowLedger/
 ├── main.py              # Core userbot logic
 ├── requirements.txt     # Dependencies
 ├── .env.example         # Environment variable template
